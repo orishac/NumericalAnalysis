@@ -3,7 +3,7 @@ My Numerical Analysis course final project.
 
 This project got a grade of 98, finished in top 10 of the class.
 
-In this project I was given several task in numrical analysis to complete.
+In this project we were given several task in numrical analysis to complete.
 The task are:
 1. Interpolate function f in the closed range [a,b] using at most n points
 2. Find as many intersection points of two functions f1 and f2 in a given closed range [a,b]
